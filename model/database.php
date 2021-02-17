@@ -1,7 +1,7 @@
 <?php
 class database {
     private $host = "localhost";
-    private $db_name = "spafullstack";
+    private $db_name = "git1";
     private $username = "root";
     private $password = "";
 
